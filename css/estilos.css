@@ -1,0 +1,81 @@
+#formulario{
+    width: 60%;
+    float: left;
+    
+}
+#imagen{
+    width: 40%;
+    float: right;
+}
+#footerderecha{
+    width: 50%;
+    float: right;
+}
+#footerizquierda{
+    width: 50%;
+    float: left;
+}
+.cb{
+    clear: both;
+}
+#container{
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+#principal{
+    border: solid 1px gainsboro;
+    border-radius: 6px;
+    padding: 34px 26px;
+}
+#footerderecha li{
+    list-style-type: none;
+    float: right;
+    margin-left: 20px;
+}
+nav ul, nav li{
+    padding: 0;
+    margin: 0;
+}
+footer{
+    padding: 14px 0;
+}
+.boton{
+    background-color: ghostwhite;
+    color: blue;
+}
+a {
+    text-decoration: none;
+    list-style-type: none;
+    }
+.boton1{
+    
+    color: rgb(24, 91, 190);
+    border: rgb(24, 91, 190);
+}
+.p-34-26{
+    padding: 34px 26px;
+}
+.boton2 li {
+    list-style-type: none;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    border: solid 1px rgb(154, 135, 222);
+    background-color: rgb(44, 44, 204);
+    padding: 12px;
+    border-radius: 8px;
+    float: right;
+}
+.w-full{
+    width: 75%;
+}
+.w-50{
+    width: 44%;
+}
+#formulario input{
+    padding: 8px;
+}
+.texto{
+    font-size: 13px;
+}
